@@ -1,1 +1,3 @@
-# signal-website
+# signal-websiteindex.html
+style.css
+script.js
